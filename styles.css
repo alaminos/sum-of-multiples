@@ -1,0 +1,21 @@
+body {
+    background-color: #4d3900;
+    font-size: 24px;
+}
+
+main {
+    background-color: #ffdf80;
+    /*border color */ 
+    width: 300px; /*poner width igual que casa paco lola*/
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+
+header {
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
